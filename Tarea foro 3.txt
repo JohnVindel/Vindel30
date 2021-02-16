@@ -1,0 +1,4 @@
+Responder las siguientes preguntas:
+
+1.  Por qué es importante crear repositorios en un proyecto de software?
+    R//  Porque almacenamos los avances y lo mas importante del proyectos.
